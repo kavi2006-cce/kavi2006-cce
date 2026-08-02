@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0F2027,100:00F5FF&height=250&section=header&text=KAVIYARASU%20SANKAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:0F2027,100:00F5FF&height=250&section=header&text=KAVIYARASU%20SANKAR&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Building+Next+Generation+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;Machine+Learning+Explorer;Building+Intelligent+Systems"/>
 
+<br/><br/>
 
-<br>
-
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00FFFF"/>
 
 </div>
 
@@ -18,29 +16,66 @@
 <br>
 
 
+# 🌌 Cyber Glass AI Engineer Profile
+
+
+<div align="center">
+
+
+```
+╔══════════════════════════════════════╗
+║                                      ║
+║   🤖 AI ENGINEER                    ║
+║   💻 FULL STACK DEVELOPER           ║
+║   ☁ CLOUD TECHNOLOGY EXPLORER       ║
+║   🚀 SOFTWARE INNOVATOR             ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+
+</div>
+
+
+
 # 🧬 Developer Identity
 
 
-```json
-{
- "name": "Kaviyarasu Sankar",
- "role": "Software Engineer",
- "focus": [
-    "Full Stack Development",
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Cloud Engineering"
- ],
- "stack": {
-    "backend": ["Java", "Spring Boot", "REST API"],
-    "frontend": ["React", "TypeScript", "Tailwind"],
-    "database": ["MySQL", "MongoDB", "PostgreSQL"],
-    "ai": ["Python", "Deep Learning", "LLM", "RAG"]
- },
- "mission":
- "Engineering intelligent solutions for real-world problems"
-}
+```yaml
+Name:
+  Kaviyarasu Sankar
+
+Role:
+  Software Engineer
+
+Specialization:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Cloud Computing
+
+Backend:
+  - Java
+  - Spring Boot
+  - REST APIs
+  - Microservices
+
+Frontend:
+  - React.js
+  - TypeScript
+  - Tailwind CSS
+
+AI:
+  - Python
+  - Deep Learning
+  - LLM
+  - RAG
+  - Computer Vision
+
+Vision:
+  Build intelligent systems that solve real-world problems.
 ```
+
 
 
 <br>
@@ -52,28 +87,29 @@
 <div align="center">
 
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,cpp,c,js,ts,react,nodejs,html,css,tailwind,mysql,mongodb,postgres,docker,aws,linux,git,github,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,javascript,typescript,react,nodejs,html,css,tailwind,mysql,postgres,mongodb,docker,aws,linux,git,github,vscode&perline=10"/>
 
 
 </div>
 
 
+
 <br>
 
 
-# 🧠 Artificial Intelligence Arsenal
+# 🤖 AI Engineering Lab
 
 
 <div align="center">
 
 
-<img src="https://img.shields.io/badge/Generative_AI-LLM-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-LLM-00FFFF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-Vector_Database-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Vector_Database-8A2BE2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Machine_Learning-Python-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-Python-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEEP_LEARNING-Neural_Network-red?style=for-the-badge"/>
 
 
 </div>
@@ -83,7 +119,7 @@
 <br>
 
 
-# 🚀 Featured Engineering Projects
+# 🚀 Featured AI Projects
 
 
 <table>
@@ -93,23 +129,38 @@
 <td width="50%">
 
 
-## 🤖 AI Recruitment Intelligence
-
-An intelligent hiring platform using LLM-powered resume analysis and candidate matching.
+## 🤖 AI Recruitment Intelligence Platform
 
 
-**Architecture**
+### Problem
+
+Automate recruitment and candidate analysis.
+
+
+### Architecture
 
 ```
 React
-   |
-Spring Boot API
-   |
+ |
+Spring Boot
+ |
 AI Engine
-   |
+ |
 Vector Database
-   |
+ |
 LLM Model
+```
+
+
+### Stack
+
+```
+React
+Spring Boot
+Gemini API
+MongoDB
+RAG
+Docker
 ```
 
 
@@ -119,12 +170,15 @@ LLM Model
 <td width="50%">
 
 
-## 🛡 AI Smart Surveillance
-
-Computer vision based security monitoring system.
+## 🛡 Smart Surveillance System
 
 
-**Architecture**
+### Problem
+
+AI based security monitoring.
+
+
+### Architecture
 
 ```
 Camera
@@ -139,6 +193,17 @@ Alert System
 ```
 
 
+### Stack
+
+```
+Python
+OpenCV
+AI
+Spring Boot
+MySQL
+```
+
+
 </td>
 
 
@@ -151,36 +216,58 @@ Alert System
 <td>
 
 
-## 🚚 Smart Delivery Platform
-
-GPS based logistics tracking system.
+## 🚚 Smart Delivery Tracking
 
 
 Features:
 
-✓ Live Tracking  
-✓ Route Optimization  
-✓ Delivery Management  
+```
+✓ GPS Tracking
+✓ Route Optimization
+✓ Live Monitoring
 ✓ Secure Authentication
+```
+
+
+Technology:
+
+```
+React
+Spring Boot
+Google Maps API
+JWT
+Database
+```
 
 
 </td>
 
 
+
 <td>
 
 
-## 🏥 AI Health Monitoring
-
-IoT + AI healthcare prediction platform.
+## 🏥 AI Health Monitoring System
 
 
 Features:
 
-✓ Sensor Data  
-✓ AI Prediction  
-✓ Cloud Dashboard  
+```
+✓ IoT Sensors
+✓ Health Prediction
+✓ Cloud Dashboard
 ✓ Emergency Alerts
+```
+
+
+Technology:
+
+```
+Python
+Machine Learning
+IoT
+Cloud
+```
 
 
 </td>
@@ -195,25 +282,22 @@ Features:
 <br>
 
 
-# 📊 GitHub Performance
+# 📊 GitHub Intelligence Dashboard
 
 
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
+
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
 
 
 <br>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00FFFF&fire=00FFFF"/>
-
-
-<br>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
 
 
 </div>
@@ -229,7 +313,7 @@ Features:
 <div align="center">
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 
 </div>
@@ -255,7 +339,7 @@ Features:
 <br>
 
 
-# 🐍 Contribution Snake Animation
+# 🐍 Coding Journey Animation
 
 
 <div align="center">
@@ -271,19 +355,36 @@ Features:
 <br>
 
 
-# 📚 Currently Building
+# 🧠 Currently Building
 
 
-```
+```text
 🔥 AI Powered Applications
 
-🔥 Scalable Backend Systems
+🔥 Enterprise Backend Systems
 
 🔥 Cloud Native Platforms
 
-🔥 Developer Tools
+🔥 Intelligent Automation Tools
 
-🔥 Intelligent Automation
+🔥 Developer Productivity Systems
+```
+
+
+
+<br>
+
+
+# 📚 Certifications & Learning
+
+
+```
+🏅 Java Programming
+🏅 Artificial Intelligence
+🏅 Machine Learning
+🏅 Deep Learning
+🏅 Cyber Security
+🏅 Cloud Computing
 ```
 
 
@@ -297,23 +398,30 @@ Features:
 <div align="center">
 
 
+<a href="https://github.com/YOUR_USERNAME">
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+
+</a>
+
+
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
 
 <a href="mailto:YOUR_EMAIL">
 
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 
 </a>
 
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://leetcode.com/YOUR_LEETCODE">
 
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 
 </a>
 
@@ -325,15 +433,16 @@ Features:
 <br>
 
 
-
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:000000&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:050505&height=150&section=footer"/>
 
 
 <h2>
-⚡ "Transforming Ideas Into Intelligent Software" ⚡
+
+⚡ Transforming Ideas Into Intelligent Software ⚡
+
 </h2>
 
 
