@@ -1,102 +1,183 @@
+<h1 align="center">Hi 👋, I'm Kaviyarasu Sankar</h1>
+
+<h3 align="center">
+Software Engineering Student | Java Developer | AI & ML Enthusiast | Full Stack Developer
+</h3>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,30:004e92,70:00c6ff,100:6dd5fa&height=300&section=header&text=Kaviyarasu%20Sankar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Java%20Developer%20|%20AI%20Enthusiast&descAlignY=58"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Developer;Spring+Boot+Developer;AI+%26+Machine+Learning;Full+Stack+Developer;Open+Source+Learner" />
 </p>
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Java+Developer;Spring+Boot+Developer;AI+Engineer;Full+Stack+Developer;Always+Learning+New+Things"/>
-
-</p>
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Java+Developer;Spring+Boot+Developer;AI+Engineer;Full+Stack+Developer;Always+Learning+New+Things"/>
-
-</p>
-<p align="center">
-
-<a href="https://github.com/kavi2006-cce">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="mailto:kaviyarasusankar01@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-</p>
-## 🚀 About Me
-
-```java
-public class Kaviyarasu {
-
-    String role = "Software Engineering Student";
-
-    String location = "Karur, Tamil Nadu 🇮🇳";
-
-    String college = "V.S.B Engineering College";
-
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "React",
-        "Python",
-        "AI",
-        "Machine Learning"
-    };
-
-    String currentFocus = "Building AI Powered Applications";
-
-    String goal = "Software Engineer @ Product Company";
-
-}
 
 ---
 
-# 5️⃣ Tech Stack
+# 💫 About Me
 
-```html
-<p align="center">
+🎓 Computer and Communication Engineering Student
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,python,mysql,docker,git,github,vscode,postman,figma"/>
+💻 Passionate Java Developer
 
-</p>
-<p align="center">
+🌱 Learning Spring Boot, React & AI
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kavi2006-cce&show_icons=true&theme=tokyonight&hide_border=true"/>
+🤖 Interested in Artificial Intelligence & Machine Learning
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavi2006-cce&layout=compact&theme=tokyonight&hide_border=true"/>
+🚀 Building Real World Projects
 
-</p>
+📍 Karur, Tamil Nadu, India
 
-<p align="center">
+🎯 Goal: Software Engineer in a Product-Based Company
 
-<img width="70%" src="https://streak-stats.demolab.com?user=kavi2006-cce&theme=tokyonight&hide_border=true"/>
+---
 
-</p>
-<p align="center">
+# 🌐 Connect with Me
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavi2006-cce&theme=react-dark&hide_border=true"/>
+<p align="left">
 
-</p>
-## 🚀 Featured Projects
+<a href="https://github.com/kavi2006-cce">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-| Project | Tech |
-|---------|------|
-| 🏥 AI Smart Health Monitoring System | Java • Spring Boot • React • AI |
-| 🚗 AI Predictive Vehicle Maintenance | Python • ML • Edge AI |
-| 👮 Criminal Face Detection | OpenCV • Python • Spring Boot |
-| 📦 Smart Delivery Tracking | React • Spring Boot • Google Maps |
-> 💡 **"Code with passion. Build with purpose. Learn without limits."**
-<p align="center">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=140&section=footer"/>
+<a href="mailto:kaviyarasusankar01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+### Frameworks
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+---
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 AI Smart Health Monitoring & Emergency Response System
+
+AI + IoT + Emergency Alerts + Dashboard
+
+---
+
+## 🚗 AI Predictive Vehicle Maintenance System
+
+Edge AI + Sensors + Machine Learning
+
+---
+
+## 👮 Criminal Face Detection System
+
+Python • OpenCV • Spring Boot • MySQL
+
+---
+
+## 📦 Smart Delivery Tracking Platform
+
+GPS • Google Maps • Admin Dashboard
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavi2006-cce&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavi2006-cce&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kavi2006-cce&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kavi2006-cce&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavi2006-cce&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 👀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kavi2006-cce&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> I enjoy building AI-powered real-world solutions that solve practical problems.
+
+---
 
 <h3 align="center">
 
-⭐ Thank You for Visiting My Profile ⭐
+⭐ Thanks for visiting my GitHub Profile ⭐
 
 </h3>
