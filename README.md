@@ -1,236 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0066FF,100:8A2BE2&height=300&section=header&text=KAVIYARASU%20SANKAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C6FF&height=220&section=header&text=Kaviyarasu%20Sankar&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-</div>
+<h2>🚀 Software Engineer | Full Stack Developer | AI Explorer</h2>
 
-<div align="center">
+<p>
+Passionate about building modern applications using Java, Spring Boot, React, AI & Cloud Technologies.
+</p>
 
-# 🚀 SOFTWARE ENGINEER | FULL STACK DEVELOPER
-
-### Building Intelligent Digital Experiences with Code & AI
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Engineer;React+Developer;AI+%26+Machine+Learning+Explorer;IoT+Enthusiast;Future+Tech+Builder"/>
-
-</div>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Spring+Boot+Developer;AI+%26+Machine+Learning;Building+Future+Technology"/>
 
 <br/>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F5FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=8A2BE2"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </div>
 
 
----
-
-# 🌌 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+# 👨‍💻 About Me
 
 ```yaml
 Name: Kaviyarasu Sankar
 
 Role:
-  - Software Engineer
-  - Full Stack Developer
-  - AI Developer
+  Software Engineer
 
 Education:
   Computer and Communication Engineering
 
-Core Skills:
+Expertise:
   - Java
   - Spring Boot
-  - React
+  - React.js
   - Python
   - Artificial Intelligence
+  - Machine Learning
+  - Database Systems
 
-Interested Areas:
-  - AI Applications
-  - IoT Systems
+Currently Exploring:
+  - Generative AI
   - Cloud Computing
-  - Backend Engineering
+  - System Design
 
 Goal:
-  Build scalable and intelligent software solutions 🚀
+  Build impactful software solutions.
 ```
 
-<br clear="right"/>
 
-
----
-
-# 🧊 My Technology Universe
+# 🛠️ Tech Stack
 
 
 <div align="center">
 
-
-## ☕ Programming
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript"/>
-
-
-## 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/>
-
-
-## ⚙ Backend
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
-
-
-## 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
-
-## ☁ Tools & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,html,css,react,spring,nodejs,mysql,mongodb,docker,aws,linux,git,github,vscode"/>
 
 </div>
 
 
----
 
 # 🚀 Featured Projects
 
 
-## 🤖 AI Smart Health Monitoring & Emergency Response System
+## 🤖 AI Recruitment & Career Intelligence Platform
+
+> AI-powered recruitment system using LLM, RAG and intelligent matching.
+
+**Technologies**
 
 ```
-AI + IoT Based Healthcare Platform
-
-Technology:
-• Java Spring Boot
-• Python AI
-• Machine Learning
-• IoT Sensors
-• React
-
-Features:
-✓ Real-time health monitoring
-✓ Emergency prediction
-✓ Intelligent alerts
-✓ Data analysis
+React.js
+Spring Boot
+Gemini API
+MongoDB
+Vector Database
+Docker
 ```
 
 
----
+## 🛡️ Smart Surveillance System
 
-## 🕵️ Criminal Face Detection System
+> Real-time AI face recognition and security monitoring platform.
+
+**Technologies**
 
 ```
-AI Powered Surveillance System
-
-Technology:
-• Python
-• OpenCV
-• Face Recognition
-• Spring Boot
-• MySQL
-
-Features:
-✓ Face detection
-✓ Identity recognition
-✓ Security monitoring
-✓ Automated alerts
+Python
+OpenCV
+Deep Learning
+Spring Boot
+MySQL
 ```
 
 
----
+## 🚚 Smart Delivery Tracking Platform
 
-## 📦 Smart Delivery Tracking Platform
+> GPS based delivery monitoring system with live tracking.
+
+**Technologies**
 
 ```
-Modern Logistics Tracking Solution
-
-Technology:
-• React
-• Spring Boot
-• GPS
-• Google Maps API
-
-Features:
-✓ Live tracking
-✓ Route optimization
-✓ Delivery management
-✓ Partner tracking
+React
+Spring Boot
+Google Maps API
+JWT Security
+Database
 ```
 
 
----
+## 🏥 AI Health Monitoring System
 
-# 🧠 AI & Development Skills
+> IoT healthcare monitoring system with AI prediction.
 
+**Technologies**
 
-<div align="center">
-
-
-| Category | Technologies |
-|---|---|
-| Backend | Java, Spring Boot |
-| Frontend | React, JavaScript, HTML, CSS |
-| AI/ML | Python, Machine Learning |
-| Database | MySQL, PostgreSQL, MongoDB |
-| DevOps | Docker, Git, Linux |
-| Tools | VS Code, IntelliJ IDEA |
+```
+IoT
+Machine Learning
+Python
+Cloud
+Sensors
+```
 
 
-</div>
-
-
----
 
 # 📊 GitHub Analytics
 
 
 <div align="center">
 
-
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-
 </div>
 
 
----
 
-# 🔥 GitHub Streak
+# 📈 Contribution Activity
 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </div>
 
 
----
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1"/>
 
 </div>
 
 
----
 
 # 🐍 Contribution Snake
 
@@ -242,114 +169,34 @@ Features:
 </div>
 
 
----
-
-# 🌌 Developer Journey
-
-
-```
-2023
- │
- ├── Started Software Development Journey
- │
- ├── Learned Java & Web Development
- │
-2024
- │
- ├── Built AI & Full Stack Projects
- │
- ├── Explored Spring Boot & Cloud
- │
-2025
- │
- ├── Advanced AI Applications
- │
- ├── Enterprise Level Development
- │
-2026
- │
- └── Building Future Technology 🚀
-```
-
-
----
-
-# 🤖 Developer Mindset
-
-
-<div align="center">
-
-
-```
-        ╔══════════════════╗
-        ║      🤖 AI       ║
-        ║                  ║
-        ║  THINK          ║
-        ║  CREATE         ║
-        ║  INNOVATE       ║
-        ╚══════════════════╝
-```
-
-
-### "Transforming ideas into intelligent solutions"
-
-
-</div>
-
-
----
-
-# 📈 Contribution Activity
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
----
 
 # 🌐 Connect With Me
 
 
 <div align="center">
 
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 
 <a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
-
-
-<a href="https://github.com/YOUR_USERNAME">
-
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-
-</a>
-
 
 </div>
 
 
----
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:141E30&height=120&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F5FF&height=150&section=footer"/>
-
-
-# ⭐ Code • Create • Innovate ⭐
-
+<h3>
+⭐ Code | Create | Innovate | Inspire ⭐
+</h3>
 
 </div>
