@@ -1,159 +1,290 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3B82F6&text=Kaviyarasu%20Sankar&height=100&fontSize=45&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Engineer&descSize=18"/>
+# 🚀 CoreUI Admin Dashboard
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Building+Scalable+Software;Java+•+Spring+Boot+•+React;Artificial+Intelligence+Developer;Cloud+%7C+Microservices+%7C+Open+Source" />
+### Modern • Responsive • Professional • Bootstrap 5
+
+<p align="center">
+<img src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/CoreUI-Latest-321FDB?style=for-the-badge&logo=coreui&logoColor=white"/>
+<img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=for-the-badge"/>
+<img src="https://img.shields.io/github/issues/USERNAME/REPOSITORY?style=for-the-badge"/>
+</p>
+
+---
+
+### ✨ Professional Bootstrap Admin Dashboard
+
+A clean, scalable, and responsive admin dashboard built using **Bootstrap 5** and **CoreUI**.
+
+Designed for modern web applications with reusable components, customizable layouts, and production-ready architecture.
+
+---
 
 </div>
 
----
+# 📸 Preview
 
-# 💎 Executive Overview
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 👨‍💻 Profile
-
-```yaml
-Name      : Kaviyarasu Sankar
-Role      : Software Engineer
-Location  : India
-Education : Computer & Communication Engineering
-
-Focus
-- Enterprise Applications
-- Artificial Intelligence
-- Full Stack Development
-- Cloud Computing
-```
-
-</td>
-
-<td width="50%">
-
-### 🚀 Current Mission
-
-✔ Building Scalable Systems
-
-✔ Learning Cloud
-
-✔ AI Engineering
-
-✔ Open Source
-
-✔ Backend Architecture
-
-✔ Clean Code
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+<img src="assets/dashboard-preview.png" width="90%">
+</p>
 
 ---
 
-# 🪟 Technology Dashboard
+# ✨ Features
 
-<div align="center">
+✔ Responsive Layout
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,python,js,html,css,mysql,mongodb,docker,git,github,vscode&perline=6"/>
+✔ Bootstrap 5 Components
 
-</div>
+✔ Sidebar Navigation
 
----
+✔ Charts & Analytics
 
-# 📊 Analytics Dashboard
+✔ Dashboard Widgets
 
-<div align="center">
+✔ Data Tables
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+✔ Authentication Pages
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+✔ Forms & Validation
 
-</div>
+✔ Icons Library
 
-<br>
+✔ Dark Mode Ready
 
-<div align="center">
+✔ Cross Browser Compatible
 
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
-
-</div>
+✔ Mobile Friendly
 
 ---
 
-# 💼 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 AI Smart Surveillance | Face Recognition & Detection | Python · OpenCV |
-| 🚚 Smart Delivery Tracker | Live GPS Tracking | Spring Boot · React |
-| 🏥 AI Health Monitoring | IoT + AI Healthcare | Python · IoT |
-| 🎫 Ticket Routing Agent | AI Support Automation | Spring Boot · Gemini |
-
----
-
-# 📈 Professional Skills
+# 📂 Project Structure
 
 ```
-Backend Development      ████████████████████ 95%
-
-Frontend Development     ████████████████░░░░ 85%
-
-Artificial Intelligence  █████████████████░░ 90%
-
-Cloud Computing          ████████████░░░░░░░ 75%
-
-Problem Solving          ████████████████████ 95%
+CoreUI-Dashboard/
+│
+├── assets/
+│   ├── css/
+│   ├── js/
+│   ├── images/
+│
+├── pages/
+│   ├── dashboard.html
+│   ├── login.html
+│   ├── register.html
+│
+├── components/
+│
+├── vendor/
+│
+├── index.html
+│
+└── README.md
 ```
 
 ---
 
-# 🏆 Achievements
+# 🛠 Tech Stack
 
-🏅 Oracle Java
-
-🏅 Cisco Networking
-
-🏅 Artificial Intelligence
-
-🏅 Deep Learning
-
-🏅 NPTEL
-
-🏅 Cyber Security
+| Technology | Usage |
+|------------|--------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| Bootstrap 5 | UI Framework |
+| CoreUI | Admin Template |
+| JavaScript | Interactivity |
+| Chart.js | Charts |
+| Font Awesome | Icons |
 
 ---
 
-# 🌐 Connect
+# 📊 Dashboard Modules
 
-<div align="center">
+📈 Analytics Dashboard
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+👥 User Management
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📦 Products
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🛒 Orders
 
-</div>
+💰 Sales
+
+📑 Reports
+
+⚙ Settings
+
+📧 Messages
+
+🔔 Notifications
+
+👤 Profile
+
+---
+
+# 🚀 Installation
+
+Clone Repository
+
+```bash
+git clone https://github.com/USERNAME/REPOSITORY.git
+```
+
+Open Project
+
+```bash
+cd REPOSITORY
+```
+
+Run
+
+```bash
+Open index.html
+```
+
+or
+
+```bash
+npm install
+npm start
+```
+
+---
+
+# 📸 Screens
+
+## Dashboard
+
+<img src="assets/dashboard.png">
+
+---
+
+## Users
+
+<img src="assets/users.png">
+
+---
+
+## Analytics
+
+<img src="assets/analytics.png">
+
+---
+
+## Settings
+
+<img src="assets/settings.png">
+
+---
+
+# 📈 Performance
+
+✅ Fast Loading
+
+✅ Optimized Assets
+
+✅ Clean Code
+
+✅ SEO Friendly
+
+✅ Mobile Responsive
+
+---
+
+# 🎨 UI Components
+
+- Cards
+- Tables
+- Buttons
+- Alerts
+- Progress Bars
+- Charts
+- Forms
+- Modals
+- Dropdowns
+- Tooltips
+- Sidebar
+- Navbar
+- Footer
+
+---
+
+# 🌐 Browser Support
+
+| Browser | Supported |
+|----------|-----------|
+| Chrome | ✅ |
+| Edge | ✅ |
+| Firefox | ✅ |
+| Safari | ✅ |
+| Opera | ✅ |
+
+---
+
+# 📦 Dependencies
+
+- Bootstrap 5
+- CoreUI
+- Chart.js
+- Font Awesome
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork Repository
+
+2. Create Branch
+
+```bash
+git checkout -b feature-name
+```
+
+3. Commit
+
+```bash
+git commit -m "Added new feature"
+```
+
+4. Push
+
+```bash
+git push origin feature-name
+```
+
+5. Open Pull Request
+
+---
+
+# ⭐ Show your Support
+
+If you like this project,
+
+⭐ Star the repository
+
+🍴 Fork it
+
+🐛 Report Issues
+
+💡 Suggest Features
+
+---
+
+# 📄 License
+
+Licensed under the MIT License.
 
 ---
 
 <div align="center">
 
-## 💡 "Building software that is simple, scalable, and impactful."
+### Developed with ❤️ using CoreUI & Bootstrap
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:60A5FA&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:321FDB,100:6EA8FE&height=120&section=footer"/>
 
 </div>
