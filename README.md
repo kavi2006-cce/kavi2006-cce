@@ -1,514 +1,201 @@
 <div align="center">
 
-# 👋 Hi, I'm **Kaviyarasu Sankar**
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=220&section=header&text=Kaviyarasu%20Sankar&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Header Banner" />
 
-### `SOFTWARE ENGINEER • FULL STACK DEVELOPER • AI EXPLORER`
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Software+Solutions;Java+%7C+Spring+Boot+%7C+React;Backend+Engineering+%7C+REST+APIs;AI+%26+Machine+Learning+Explorer;Turning+Real+Problems+Into+Software"/>
-
-<br>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=700&height=50&lines=Software%20Engineer;Full%20Stack%20Developer;Java%20Developer;AI%20%26%20Machine%20Learning%20Enthusiast;Spring%20Boot%20Developer;Problem%20Solver;Open%20Source%20Learner" alt="Typing SVG" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME?tab=followers">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717"/>
-</a>
+<br/>
+
+<!-- VISITORS COUNTER & QUICK SOCIALS -->
+![Profile Visitors](https://komarev.com/ghpvc/?username=kavi2006-cce&label=PROFILE+VIEWS&color=00f2fe&style=for-the-badge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaviyarasu-sankar) [![Portfolio](https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaviyarasu.dev) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaviyarasusankar01@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavi2006-cce) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kavi2006) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kaviyarasu_s)
 
 </div>
 
----
-
-# `01 / ENGINEERING PROFILE`
-
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284126-4c2b8d8e-6f2e-4f8b-8c9a-9f1e5d9f3f7a.gif">
-
-### 👨‍💻 Who Am I?
-
-🎓 **Computer & Communication Engineering Student**
-
-💻 Aspiring **Software Engineer** focused on Full Stack Development.
-
-⚙️ Building backend systems, REST APIs and scalable web applications.
-
-🤖 Exploring **Artificial Intelligence, Machine Learning and Generative AI**.
-
-🧠 Interested in **System Design, Software Architecture and Problem Solving**.
-
-🚀 Passionate about transforming real-world problems into practical software solutions.
-
-<br clear="right"/>
+<br/>
 
 ---
 
-# `02 / MY ENGINEERING MINDSET`
+### 👤 About Me
 
-```text
-                    ┌──────────────────────┐
-                    │      REAL PROBLEM    │
-                    └──────────┬───────────┘
-                               ↓
-                    ┌──────────────────────┐
-                    │   UNDERSTAND USERS   │
-                    └──────────┬───────────┘
-                               ↓
-                    ┌──────────────────────┐
-                    │  DESIGN ARCHITECTURE │
-                    └──────────┬───────────┘
-                               ↓
-                    ┌──────────────────────┐
-                    │    BUILD THE SYSTEM  │
-                    └──────────┬───────────┘
-                               ↓
-                    ┌──────────────────────┐
-                    │ TEST • DEBUG • OPTIMIZE│
-                    └──────────┬───────────┘
-                               ↓
-                    ┌──────────────────────┐
-                    │       DEPLOY         │
-                    └──────────────────────┘
-```
+I am a forward-thinking **Computer & Communication Engineering Student** and passionate **Java Full Stack Developer**. I thrive on transforming complex algorithmic problems into high-impact, real-world software solutions. Driven by modern frameworks, edge AI, and clean architecture, my ambition is to innovate and scale software for tier-1 product organizations.
 
-> **I don't just want to write code. I want to understand the problem, design the solution and build software that creates real impact.**
+<br/>
 
----
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>🎓 <b>Education:</b> Computer and Communication Engineering Student</li>
+        <li>💻 <b>Role:</b> Java & Full Stack Developer</li>
+        <li>🌱 <b>Currently Learning:</b> Spring Boot, React, Deep Learning & Generative AI</li>
+        <li>📍 <b>Location:</b> India 🇮🇳</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>🚀 <b>Passion:</b> Building scalable web architectures & AI-powered smart systems</li>
+        <li>🤖 <b>Interests:</b> Artificial Intelligence, Distributed Systems & Edge AI</li>
+        <li>🎯 <b>Career Goal:</b> Software Engineer in a Product-Based Company</li>
+        <li>🏢 <b>Target Companies:</b> `Microsoft` • `Google` • `Amazon` • `TCS` • `Infosys` • `Wipro` • `Cognizant` • `Accenture`</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-# `03 / TECHNOLOGY STACK`
-
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp"/>
-</p>
-
-**Primary:** Java • Python • JavaScript • TypeScript
+<br/>
 
 ---
 
-## 🎨 Frontend Engineering
+### 🛠️ Tech Stack & Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,typescript,tailwind"/>
-</p>
+<p align="left">
 
-`React.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
+#### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+<br/>
 
-## ⚙️ Backend Engineering
+#### ⚡ Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
-</p>
+<br/>
 
-`Spring Boot` `Spring Security` `Node.js` `Express.js`
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-`REST APIs` `JWT Authentication` `API Integration`
+<br/>
 
----
+#### 🛠️ Developer Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🗄️ Databases
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
-</p>
-
-`MySQL` `PostgreSQL` `MongoDB`
-
-`SQL` `Database Design` `CRUD` `Relationships`
-
----
-
-## ☁️ DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode"/>
-</p>
-
-`Git` `GitHub` `Docker` `Linux` `VS Code`
-
----
-
-## 🤖 AI / ML
-
-`Python` • `Machine Learning` • `Deep Learning`
-
-`Computer Vision` • `Generative AI` • `LLM Applications`
-
----
-
-# `04 / FEATURED PROJECTS`
-
-## 🤖 AI Recruitment Intelligence Platform
-
-> **An intelligent recruitment platform designed to improve candidate-job matching and career preparation.**
-
-### ⚡ Core Features
-
-* 📄 AI Resume Analysis
-* 🎯 Intelligent Skill Matching
-* 💼 Candidate Recommendation
-* 🧠 Interview Preparation
-* 📊 Candidate Insights
-* 🚀 Career Assistance
-
-### 🛠️ Engineering
-
-`React` `Spring Boot` `REST API` `Database` `AI`
-
----
-
-## 🚨 AI Criminal Face Detection System
-
-> **Real-time computer vision system for automated face detection and identification.**
-
-### ⚡ Core Features
-
-* 👁️ Real-Time Face Detection
-* 🧠 Face Recognition
-* 🚨 Automated Alerts
-* 🗄️ Database Management
-* 📊 Identification Records
-* ⚡ Real-Time Processing
-
-### 🛠️ Engineering
-
-`Python` `OpenCV` `Face Recognition` `AI/ML` `Database`
-
----
-
-## 🏥 AI Smart Health Monitoring System
-
-> **IoT + AI based healthcare monitoring platform for intelligent health-data analysis.**
-
-### ⚡ Core Features
-
-* ❤️ Health Data Monitoring
-* 📡 IoT Data Collection
-* 🧠 Intelligent Analysis
-* 🚨 Emergency Detection
-* 📊 Health Analytics
-* ⚡ Real-Time Monitoring
-
-### 🛠️ Engineering
-
-`Python` `IoT` `AI/ML` `Data Processing`
-
----
-
-# `05 / HOW I BUILD SOFTWARE`
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                    SOFTWARE LIFECYCLE                   │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  01  PROBLEM                                            │
-│       ↓                                                 │
-│  02  REQUIREMENTS                                       │
-│       ↓                                                 │
-│  03  SYSTEM DESIGN                                     │
-│       ↓                                                 │
-│  04  DATABASE DESIGN                                   │
-│       ↓                                                 │
-│  05  BACKEND / API DEVELOPMENT                         │
-│       ↓                                                 │
-│  06  FRONTEND DEVELOPMENT                              │
-│       ↓                                                 │
-│  07  TESTING & DEBUGGING                               │
-│       ↓                                                 │
-│  08  CONTAINERIZATION                                  │
-│       ↓                                                 │
-│  09  DEPLOYMENT                                        │
-│       ↓                                                 │
-│  10  MONITORING & IMPROVEMENT                          │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-# `06 / ENGINEERING PRINCIPLES`
-
-```text
-01 → Understand the problem before writing code.
-
-02 → Keep architecture simple and maintainable.
-
-03 → Build APIs that are reliable and predictable.
-
-04 → Design databases around real requirements.
-
-05 → Write readable code instead of complicated code.
-
-06 → Test early. Debug systematically.
-
-07 → Learn from every failure.
-
-08 → Build continuously and improve continuously.
-```
-
----
-
-# `07 / CURRENT LEARNING`
-
-### 🚀 Backend
-
-`Spring Boot`
-
-`Spring Security`
-
-`REST API Architecture`
-
-`Microservices`
-
-`Backend Architecture`
-
----
-
-### 🧠 Software Engineering
-
-`Data Structures & Algorithms`
-
-`System Design`
-
-`Design Patterns`
-
-`OOP`
-
-`Software Architecture`
-
----
-
-### ☁️ Cloud & DevOps
-
-`Docker`
-
-`Linux`
-
-`Cloud Computing`
-
-`CI/CD`
-
-`Deployment`
-
----
-
-### 🤖 Artificial Intelligence
-
-`Machine Learning`
-
-`Deep Learning`
-
-`Generative AI`
-
-`LLM Applications`
-
-`AI Agents`
-
----
-
-# `08 / DEVELOPMENT ACTIVITY`
-
-<p align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+#### 🤖 Artificial Intelligence & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </p>
 
----
-
-# `09 / GITHUB STREAK`
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+<br/>
 
 ---
 
-# `10 / CONTRIBUTION GRAPH`
+### 🌟 Featured Projects
 
-<p align="center">
+### 🏥 AI Smart Health Monitoring & Emergency Response System
+An end-to-end intelligent IoT & AI healthcare platform that monitors vitals in real-time and triggers automatic emergency dispatch alerts to nearby hospitals upon detecting anomalies.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true"/>
+**Tech Stack:** `AI` `IoT` `Healthcare` `Emergency Alerts` `Dashboard` `Spring Boot`
 
-</p>
-
----
-
-# `11 / CONTRIBUTION SNAKE`
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
+[💻 View Repository](https://github.com/kavi2006-cce/ai-health-monitoring) | [🌐 Live Demo](https://ai-health-monitoring.demo)
 
 ---
 
-# `12 / CERTIFICATIONS & KNOWLEDGE`
+### 🚗 AI Predictive Vehicle Maintenance System
+Edge-AI powered automotive diagnostic framework executing machine learning algorithms directly on vehicle sensor streams to predict component failures prior to breakdown.
 
-| Area             | Knowledge               |
-| ---------------- | ----------------------- |
-| ☕ Programming    | Java Programming        |
-| 🐍 Programming   | Python                  |
-| 🤖 AI            | Artificial Intelligence |
-| 🧠 ML            | Machine Learning        |
-| 🧬 Deep Learning | Deep Learning           |
-| 🔐 Security      | Cyber Security          |
-| 📡 IoT           | Internet of Things      |
-| ☁️ Cloud         | Cloud Computing         |
-| 🐳 DevOps        | Docker & Linux          |
+**Tech Stack:** `Edge AI` `Automotive` `Machine Learning` `Sensor Analytics` `Python`
+
+[💻 View Repository](https://github.com/kavi2006-cce/predictive-vehicle-maintenance) | [🌐 Live Demo](https://vehicle-ai.demo)
 
 ---
 
-# `13 / PROBLEM SOLVING`
+### 📦 Smart Delivery Tracking Platform
+High-throughput logistics microservice architecture equipped with live GPS map tracking, automated route optimization, driver verification via dynamic OTP, and admin analytical console.
 
-### 🧩 What I Practice
+**Tech Stack:** `GPS` `Maps` `Realtime Tracking` `OTP` `Admin Dashboard` `React`
 
-```text
-Data Structures
-       +
-Algorithms
-       +
-Object-Oriented Programming
-       +
-Database Problems
-       +
-Aptitude
-       +
-Real-World Engineering Problems
-       ↓
-Better Problem Solver
-```
-
-> **Every problem is an opportunity to improve the way I think.**
+[💻 View Repository](https://github.com/kavi2006-cce/smart-delivery-tracker) | [🌐 Live Demo](https://smart-delivery.demo)
 
 ---
 
-# `14 / MY DEVELOPMENT PHILOSOPHY`
+### 🔍 Criminal Face Detection System
+Computer vision security engine built using OpenCV and deep face recognition to scan surveillance feeds, cross-reference offender databases, and flag matches instantly.
 
-<p align="center">
+**Tech Stack:** `Python` `OpenCV` `Face Recognition` `Spring Boot` `MySQL`
 
-### "Code is only the beginning."
-
-</p>
-
-I believe great software engineering is a combination of:
-
-**Problem Solving + Architecture + Clean Code + Continuous Learning**
-
-I build projects not only to complete them, but to understand:
-
-* Why the system works
-* How the components communicate
-* How the database should be designed
-* How APIs should be structured
-* How applications can scale
-* How software can create real-world value
+[💻 View Repository](https://github.com/kavi2006-cce/criminal-face-detection) | [🌐 Live Demo](https://face-detection.demo)
 
 ---
 
-# `15 / BEYOND CODE`
-
-```text
-LEARN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-UNDERSTAND
-  ↓
-IMPROVE
-  ↓
-SHIP
-  ↓
-REPEAT
-```
-
-### ⚡ My Rule
-
-> **Don't chase technologies. Understand engineering.**
+<br/>
 
 ---
 
-# `16 / CAREER DIRECTION`
-
-### 🎯 Target
-
-**Software Engineering**
-
-### 💻 Interested In
-
-* Full Stack Development
-* Backend Engineering
-* Java Development
-* Spring Boot
-* System Design
-* Cloud Engineering
-* AI Engineering
-* Generative AI
-
-### 🚀 Long-Term Goal
-
-> **Become an engineer capable of designing, building and scaling production-grade software systems.**
-
----
-
-# `17 / LET'S CONNECT`
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# `18 / FINAL MESSAGE`
-
-<p align="center">
-
-### 🚀 BUILDING TODAY.
-
-### 🧠 LEARNING EVERY DAY.
-
-### ⚡ ENGINEERING FOR TOMORROW.
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:FF00AA&height=140&section=footer"/>
-
-</p>
+### 📊 GitHub Analytics & Performance
 
 <div align="center">
 
-### ⭐ If you find my projects interesting, feel free to explore my repositories.
+<a href="https://github.com/kavi2006-cce">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavi2006-cce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00f2fe&text_color=e2e8f0&icon_color=00f2fe&bg_color=0d0e15" alt="kavi2006-cce's GitHub Stats" />
+</a>
+<a href="https://github.com/kavi2006-cce">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavi2006-cce&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe&text_color=e2e8f0&icon_color=00f2fe&bg_color=0d0e15" alt="Top Languages" />
+</a>
 
-**`Kaviyarasu Sankar`**
+<br/><br/>
 
-`Software Engineer • Full Stack Developer • AI Explorer`
+<a href="https://github.com/kavi2006-cce">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavi2006-cce&theme=tokyonight&hide_border=true&background=0D0E15&stroke=00F2FE&alarm=00F2FE&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE" alt="GitHub Streak" />
+</a>
 
+<br/><br/>
+<a href="https://github.com/kavi2006-cce">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavi2006-cce&theme=react-dark&bg_color=0d0e15&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</a>
+
+<br/><br/>
+#### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kavi2006-cce/kavi2006-cce/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kavi2006-cce/kavi2006-cce/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kavi2006-cce/kavi2006-cce/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+### 🏆 Key Achievements & Expertise
+
+<p align="center">
+![Open Source Contributor](https://img.shields.io/badge/Open_Source_Contributor-00F2FE?style=flat-square&logo=github&logoColor=121829) ![Java Certified Developer](https://img.shields.io/badge/Java_Certified_Developer-00F2FE?style=flat-square&logo=github&logoColor=121829) ![Spring Boot Microservices Specialist](https://img.shields.io/badge/Spring_Boot_Microservices_Specialist-00F2FE?style=flat-square&logo=github&logoColor=121829) ![AI & Machine Learning Enthusiast](https://img.shields.io/badge/AI_%26_Machine_Learning_Enthusiast-00F2FE?style=flat-square&logo=github&logoColor=121829) ![Problem Solving Master (LeetCode / HackerRank)](https://img.shields.io/badge/Problem_Solving_Master_(LeetCode_/_HackerRank)-00F2FE?style=flat-square&logo=github&logoColor=121829) ![GitHub Active Contributor](https://img.shields.io/badge/GitHub_Active_Contributor-00F2FE?style=flat-square&logo=github&logoColor=121829) ![Hackathon Finalist & Winner](https://img.shields.io/badge/Hackathon_Finalist_%26_Winner-00F2FE?style=flat-square&logo=github&logoColor=121829)
+</p>
+
+<br/>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaviyarasu-sankar) [![Portfolio](https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaviyarasu.dev) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaviyarasusankar01@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavi2006-cce) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kavi2006) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kaviyarasu_s)
+
+<br/><br/>
+
+Feel free to reach out if you want to collaborate on open-source, AI engineering projects, or software engineering opportunities!
+
+</div>
+
+<br/>
+
+---
+
+### ⚡ Fun Fact
+
+> "I enjoy building AI-powered real-world solutions that bridge software and automated decision-making."
+
+<br/>
+
+<!-- FOOTER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together.&fontSize=18&fontColor=ffffff&fontAlignY=50" width="100%" alt="Footer Banner" />
 </div>
